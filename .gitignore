@@ -1,5 +1,15 @@
 *.py[co]
 
+ca.pem
+client-cert.pem
+client-key.pem
+mysql.zip
+ssserver.log
+ssshell.asc
+user-config.json
+userapiconfig.py
+user-detect.html
+
 # Packages
 *.egg
 *.egg-info
